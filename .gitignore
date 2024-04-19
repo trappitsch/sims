@@ -60,3 +60,4 @@ docs/_build/
 
 # This directory contains stuff I don't want tracked by git.
 other/
+.idea/
